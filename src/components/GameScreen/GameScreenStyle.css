@@ -1,0 +1,17 @@
+.header-game {
+  display: flex;
+  width: auto;
+  justify-content: space-between;
+  justify-self: flex-start;
+}
+main {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+.score-progress {
+  margin: 0.5rem auto;
+  color: #fff;
+  font-size: 1.55rem;
+}

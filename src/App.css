@@ -1,0 +1,11 @@
+.app {
+  width: auto;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-image: url(assets/one_memo_bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 1rem 2rem;
+  font-family: var(--ff-main);
+}

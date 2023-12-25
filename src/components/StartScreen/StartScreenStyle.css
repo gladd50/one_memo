@@ -1,0 +1,14 @@
+.btn-cont {
+  display: flex;
+  gap: 1rem;
+}
+
+.start-screen {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  align-self: center;
+  margin: auto 0;
+  gap: 1rem;
+}

@@ -1,0 +1,13 @@
+.logo-start {
+  max-width: 750px;
+}
+.logo-game {
+  max-width: 350px;
+}
+.logo {
+  cursor: pointer;
+  transition: transform 300ms;
+}
+.logo:hover {
+  transform: scale(1.03);
+}
